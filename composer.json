@@ -1,0 +1,11 @@
+{
+    "phpFormatter.composer": true,
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
